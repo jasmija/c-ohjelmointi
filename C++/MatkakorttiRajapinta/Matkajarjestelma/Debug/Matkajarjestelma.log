@@ -1,0 +1,44 @@
+﻿  gotoxy.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  IOHelper.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  Leimaaja.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Leimaaja.cpp(24,22): error C2039: 'matkusta': is not a member of 'Matkakortti'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(12): message : see declaration of 'Matkakortti'
+  Leimattavat.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Leimattavat.cpp(9,30): error C2556: 'void Leimattavat::matkusta(void)': overloaded function differs only by return type from 'bool Leimattavat::matkusta(void)'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Leimattavat.h(13): message : see declaration of 'Leimattavat::matkusta'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Leimattavat.cpp(9,19): error C2371: 'Leimattavat::matkusta': redefinition; different basic types
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Leimattavat.h(13): message : see declaration of 'Leimattavat::matkusta'
+  Leimaustapahtuma.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  Matkajarjestelma.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkajarjestelma.cpp(56,16): error C2039: 'matkusta': is not a member of 'Matkakortti'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(12): message : see declaration of 'Matkakortti'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkajarjestelma.cpp(64,16): error C2039: 'matkusta': is not a member of 'Matkakortti'
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(12): message : see declaration of 'Matkakortti'
+  Matkakortti.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  Paneeli.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  stdafx.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+  Yksittaislippu.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Matkakortti.h(13,1): error C2504: 'Leimattavat': base class undefined
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(4,6): error C2653: 'Yksittaislippu': is not a class or namespace name
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(6,2): error C2065: 'omistajanNimi': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(7,2): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(16,7): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(17,4): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(17,12): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(21,4): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(21,12): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(26,7): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(27,4): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(27,12): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(31,4): error C2065: 'saldo': undeclared identifier
+C:\Users\jaspa\Desktop\C-ohjelmointi\MatkakorttiRajapinta\Matkajarjestelma\Yksittaislippu.cpp(31,12): error C2065: 'saldo': undeclared identifier
+  Generating Code...

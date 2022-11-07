@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Merkijonon tulostaminen nurinpäin.vcxproj, T2b.vcxproj, T3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht4\Merkijonon tulostaminen nurinpäin\Source.cpp(36,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht4\Merkijonon tulostaminen nurinpäin\Source.cpp(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Merkijonon tulostaminen nurinpäin.vcxproj -> C:\Users\jaspa\Desktop\C-ohjelmointi\Teht4\Debug\T4.exe

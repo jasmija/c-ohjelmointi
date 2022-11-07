@@ -1,0 +1,3 @@
+﻿  Levyluettelo.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\Levyluettelo\Levyluettelo\Levyluettelo.cpp(78,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Levyluettelo.vcxproj -> C:\Users\jaspa\Desktop\C-ohjelmointi\Levyluettelo\x64\Debug\Levyluettelo.exe

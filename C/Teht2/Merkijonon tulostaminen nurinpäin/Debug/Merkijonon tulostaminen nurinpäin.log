@@ -1,0 +1,6 @@
+﻿  Merkijonon tulostaminen nurinpäin.cpp
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht2\Merkijonon tulostaminen nurinpäin\Merkijonon tulostaminen nurinpäin.cpp(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht2\Merkijonon tulostaminen nurinpäin\Merkijonon tulostaminen nurinpäin.cpp(25,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht2\Merkijonon tulostaminen nurinpäin\Merkijonon tulostaminen nurinpäin.cpp(37,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\jaspa\Desktop\C-ohjelmointi\Teht2\Merkijonon tulostaminen nurinpäin\Merkijonon tulostaminen nurinpäin.cpp(39,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  Merkijonon tulostaminen nurinpäin.vcxproj -> C:\Users\jaspa\Desktop\C-ohjelmointi\Teht2\Debug\Merkijonon tulostaminen nurinpäin.exe

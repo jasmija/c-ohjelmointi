@@ -1,0 +1,12 @@
+﻿  Matkakortti.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\memory(3437,35): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\jaspa\Desktop\C-ohjelmointi\LeimaajaSmart\Matkajarjestelma\Matkakortti.cpp(8): message : see reference to function template instantiation 'std::unique_ptr<float,std::default_delete<float>> std::make_unique<float,double,0>(double &&)' being compiled
+  Matkajarjestelma.vcxproj -> C:\Users\jaspa\Desktop\C-ohjelmointi\LeimaajaSmart\Debug\Matkajarjestelma.exe

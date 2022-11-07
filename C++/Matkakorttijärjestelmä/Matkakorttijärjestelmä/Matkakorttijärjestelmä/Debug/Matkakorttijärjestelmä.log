@@ -1,0 +1,4 @@
+﻿  Matkakorttijärjestelmä.c
+C:\Users\jaspa\Desktop\C-ohjelmointi\Matkakorttijärjestelmä\Matkakorttijärjestelmä\Matkakorttijärjestelmä\Matkakorttijärjestelmä.c(115,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\jaspa\Desktop\C-ohjelmointi\Matkakorttijärjestelmä\Matkakorttijärjestelmä\Matkakorttijärjestelmä\Matkakorttijärjestelmä.c(117,2): warning C4013: 'strncpy' undefined; assuming extern returning int
+  Matkakorttijärjestelmä.vcxproj -> C:\Users\jaspa\Desktop\C-ohjelmointi\Matkakorttijärjestelmä\Matkakorttijärjestelmä\Debug\Matkakorttijärjestelmä.exe
